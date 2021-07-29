@@ -32,7 +32,7 @@ nav a img {
 
 #sidebar ul li:hover, 
 #sidebar ul li.active {
-    background-color: white;
+    background-color: black;
 }
 
 #sidebar ul li:hover a, 
